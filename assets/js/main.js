@@ -6,7 +6,7 @@
 const NAV_HTML = `
 <nav id="navbar">
   <div class="nav-inner">
-    <a href="index.html" class="nav-logo">Mizanur <span>Rahaman</span></a>
+    <a href="index.html" class="nav-logo">Md. Mizanur <span>Rahaman</span></a>
     <ul class="nav-links" id="navLinks">
       <li><a href="index.html" data-page="index">Home</a></li>
       <li><a href="about.html" data-page="about">About</a></li>
