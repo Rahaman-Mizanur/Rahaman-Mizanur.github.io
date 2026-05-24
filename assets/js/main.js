@@ -34,6 +34,7 @@ const FOOTER_HTML = `
       <a href="mailto:mizan.becm13@gmail.com">📧 Email</a>
       <a href="https://linkedin.com/in/rahaman-mizanur" target="_blank" rel="noopener">💼 LinkedIn</a>
       <a href="https://github.com/Rahaman-Mizanur" target="_blank" rel="noopener">🐙 GitHub</a>
+      <a href="https://scholar.google.com/citations?user=Gajk6tkAAAAJ&hl=en" target="_blank" rel="noopener">🎓 Google Scholar</a>
     </div>
   </div>
   <div class="footer-inner">
